@@ -1,2 +1,2 @@
-# trust-region-svi
-A Trust-Region Method for Graphical Stein Variational Inference
+# TrustRegion SVI
+Code for our paper "A Trust-Region Method for Graphical Stein Variational Inference". Releasing soon
